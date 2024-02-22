@@ -1,4 +1,4 @@
-# machine_learning
+# Machine_learning
 
 ## Gender identification of voice data
 大学で使用したフォルマント周波数という音声データから男女を識別するプログラムがあります。大学のデータのため、公開することはできませんが、その際に作成したプログラムのみを公開しております。
